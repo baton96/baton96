@@ -1,4 +1,5 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=baton96&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=baton96&theme=github-dark-blue&hide_border=true)  
+![Stats](https://github-readme-stats.vercel.app/api?username=baton96&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baton96&hide=jupyter%20notebook,c%23&theme=github_dark&layout=compact&hide_border=true)
 <!--
 **baton96/baton96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
